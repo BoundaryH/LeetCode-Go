@@ -1,0 +1,13 @@
+.DS_Store
+.vscode
+__pycache__/
+
+
+main
+*.pyc
+*.exe
+*.out
+*.png
+*.jpg
+*.jpeg
+*.bmp
